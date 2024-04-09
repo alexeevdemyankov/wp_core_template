@@ -1,0 +1,41 @@
+/*
+Theme Name: RedBroPro
+Theme URI: http://redbro.ru/
+Author: RedBro
+Author URI: https://redbro.ru/
+Description: Redbro is the Perfect WordPress Theme. Redbro is best suited for corporate website.   
+Version: 1.0.0
+License: GPL
+Text Domain: redbro
+Tags: advisor, attorney, corporate accountant, consulting, consultant, finance, insurance, invest, investment, investor, mutual funds, pensions, retirement, saving, trading 
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+@font-face {
+    font-display: swap;
+    font-family: 'Intro Bold';
+    src: url('/wp-content/themes/redbropro/webfonts/Intro-Bold.eot');
+    src: url('/wp-content/themes/redbropro/webfonts/Intro-Bold.eot?#iefix') format('embedded-opentype'),
+    url('/wp-content/themes/redbropro/webfonts/Intro-Bold.woff') format('woff'),
+    url('/wp-content/themes/redbropro/webfonts/Intro-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Roboto Regular';
+    src: url('/wp-content/themes/redbropro/webfonts/Roboto-Regular.eot');
+    src: url('/wp-content/themes/redbropro/webfonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+    url('/wp-content/themes/redbropro/webfonts/Roboto-Regular.woff') format('woff'),
+    url('/wp-content/themes/redbropro/webfonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
